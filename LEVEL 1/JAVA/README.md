@@ -4,8 +4,8 @@
 [핸드폰 번호 가리기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/핸드폰%20번호%20가리기.java
 [행렬의 덧셈]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/행렬의%20덧셈.java
 
-[직사각형 별찍기][직사각형 별찍기]
-[x만큼 간격이 있는 n개의 숫자][x만큼 간격이 있는 n개의 숫자]
-[하샤드 수][하샤드 수]
-[핸드폰 번호 가리기][핸드폰 번호 가리기]
-[행렬의 덧셈][행렬의 덧셈]
+* [직사각형 별찍기][직사각형 별찍기]
+* [x만큼 간격이 있는 n개의 숫자][x만큼 간격이 있는 n개의 숫자]
+* [하샤드 수][하샤드 수]
+* [핸드폰 번호 가리기][핸드폰 번호 가리기]
+* [행렬의 덧셈][행렬의 덧셈]
