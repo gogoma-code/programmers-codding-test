@@ -3,7 +3,7 @@
 import java.util.stream.IntStream;
 
 public class Solution {
-    // 풀이-1
+	// 풀이-1
 	public int[][] solution(int[][] arr1, int[][] arr2) {
 		int[][] arr = new int[arr1.length][arr1[0].length];
 		for (int i = 0; i < arr1.length; i++) {
@@ -14,7 +14,7 @@ public class Solution {
 		return arr;
 	}
 
-    // 풀이-2
+	// 풀이-2
 	public int[][] solution2(int[][] arr1, int[][] arr2) {
 		int[][] arr = new int[arr1.length][arr1[0].length];
 		IntStream.range(0, arr1.length)
