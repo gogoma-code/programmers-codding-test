@@ -1,5 +1,5 @@
 // 직사각형 별찍기 
-//https://programmers.co.kr/learn/courses/30/lessons/12969?language=java
+// https://programmers.co.kr/learn/courses/30/lessons/12969?language=java
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
