@@ -1,8 +1,7 @@
-# programmers-codding-test
+[link-programmers-codding-test]: https://github.com/gogoma-code/programmers-codding-test
+[link-level-1]: https://github.com/gogoma-code/programmers-codding-test/tree/main/LEVEL%201
 
+# [programmers-codding-test][link-programmers-codding-test]
 
-
-[link_level1]: https://github.com/gogoma-code/programmers-codding-test
-
-> ## [LEVEL 1][link_level1]
+> ## [LEVEL 1][link-level-1]
 > > ### JAVA
