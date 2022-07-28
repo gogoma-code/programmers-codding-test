@@ -36,7 +36,7 @@
 [같은 숫자는 싫어]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/같은%20숫자는%20싫어.java
 [나누어 떨어지는 숫자 배열]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/나누어%20떨어지는%20숫자%20배열.java
 [두 정수 사이의 합]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/두%20정수%20사이의%20합.java
-[신고 결과 받기]: https://github.com/gogoma-code/programmers-code/blob/main/LEVEL%201/JAVA/신고%20결과%20받기.java
+[신고 결과 받기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/신고%20결과%20받기.java
 [로또의 최고 순위와 최저 순위]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/로또의%20최고%20순위와%20최저%20순위.java
 [신규 아이디 추천]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/신규%20아이디%20추천.java
 [숫자 문자열과 영단어]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/숫자%20문자열과%20영단어.java
