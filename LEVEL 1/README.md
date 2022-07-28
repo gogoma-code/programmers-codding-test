@@ -1,7 +1,6 @@
 [link-level-1-JAVA]: https://github.com/gogoma-code/programmers-codding-test/tree/main/LEVEL%201/JAVA
 [link-level-1-MySQL]: https://github.com/gogoma-code/programmers-codding-test/tree/main/LEVEL%201/MySQL
 
-> ## [JAVA][link-level-1-JAVA]
 [직사각형 별찍기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/직사각형%20별찍기.java
 [x만큼 간격이 있는 n개의 숫자]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/x만큼%20간격이%20있는%20n개의%20숫자.java
 [하샤드 수]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/하샤드%20수.java
@@ -57,6 +56,7 @@
 [체육복]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/체육복.java
 [실패율]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/실패율.java
 [약수의 개수와 덧셈]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/약수의%20개수와%20덧셈.java
+> ## [JAVA][link-level-1-JAVA]
 > > * [직사각형 별찍기][직사각형 별찍기]
 > > * [x만큼 간격이 있는 n개의 숫자][x만큼 간격이 있는 n개의 숫자]
 > > * [하샤드 수][하샤드 수]
