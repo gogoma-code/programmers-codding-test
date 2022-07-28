@@ -26,7 +26,7 @@
 [3진법 뒤집기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/3진법%20뒤집기.java
 [예산]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/예산.java
 [두 개 뽑아서 더하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/두%20개%20뽑아서%20더하기.java
-[2016년]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%021/JAVA/2016년.java
+[2016년]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/2016년.java
 [최소직사각형]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/최소직사각형.java
 [나머지가 1이 되는 수 찾기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/나머지가%201이%20되는%20수%20찾기.java
 [부족한 금액 계산하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/부족한%20금액%20계산하기.java
