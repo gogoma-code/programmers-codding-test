@@ -40,7 +40,7 @@
 [로또의 최고 순위와 최저 순위]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/로또의%20최고%20순위와%20최저%20순위.java
 [신규 아이디 추천]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/신규%20아이디%20추천.java
 [숫자 문자열과 영단어]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/숫자%20문자열과%20영단어.java
-[키패드 누르기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%021/JAVA/키패드%20누르기.java
+[키패드 누르기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/키패드%20누르기.java
 [크레인 인형뽑기 게임]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/크레인%20인형뽑기%20게임.java
 [없는 숫자 더하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/없는%20숫자%20더하기.java
 [음양 더하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/음양%20더하기.java
