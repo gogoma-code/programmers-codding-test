@@ -29,7 +29,7 @@
 [2016년]: https://github.com/gogoma-code/programmers-code/blob/main/LEVEL%021/JAVA/2016년.java
 [최소직사각형]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/최소직사각형.java
 [나머지가 1이 되는 수 찾기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/나머지가%201이%20되는%20수%20찾기.java
-[부족한 금액 계산하기] : https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/부족한%20금액%20계산하기.java
+[부족한 금액 계산하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/부족한%20금액%20계산하기.java
 [1차 비밀지도]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/1차%20비밀지도.java
 [가운데 글자 가져오기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/가운데%20글자%20가져오기.java
 [1차 다트게임]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/1차%20다트게임.java
