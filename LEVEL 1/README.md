@@ -60,8 +60,16 @@
 [약수의 개수와 덧셈]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/약수의%20개수와%20덧셈.java
 
 <!-- level-1-MySQL -->
-[동물의 아이디와 이름-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/동물의 아이디와 이름.sql
-[모든 레코드 조회하기-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/모든 레코드 조회하기.sql
+[동물의 아이디와 이름-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/동물의%20아이디와%20이름.sql
+[모든 레코드 조회하기-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/모든%20레코드%20조회하기.sql
+[상위 n개 레코드-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/상위%20n개%20레코드.sql
+[아픈 동물 찾기-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/아픈%20동물%20찾기.sql
+[어린 동물 찾기-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/어린%20동물%20찾기.sql
+[여러 기준으로 정렬하기-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/여러%20기준으로%20정렬하기.sql
+[역순 정렬하기-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/역순%20정렬하기.sql
+[이름이 없는 동물의 아이디-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/이름이%20없는%20동물의%20아이디.sql
+[이름이 있는 동물의 아이디-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/이름이%20있는%20동물의%20아이디.sql
+[최댓값 구하기-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/최댓값%20구하기.sql
 
 > ## [JAVA][link-level-1-JAVA]
 > > * [직사각형 별찍기][직사각형 별찍기]
@@ -122,3 +130,12 @@
 
 > ## [MySQL][link-level-1-MySQL]
 > > * [동물의 아이디와 이름][동물의 아이디와 이름-MySQL]
+> > * [모든 레코드 조회하기][모든 레코드 조회하기-MySQL]
+> > * [상위 n개 레코드][상위 n개 레코드-MySQL]
+> > * [아픈 동물 찾기][아픈 동물 찾기-MySQL]
+> > * [어린 동물 찾기][어린 동물 찾기-MySQL]
+> > * [여러 기준으로 정렬하기][여러 기준으로 정렬하기-MySQL]
+> > * [역순 정렬하기][역순 정렬하기-MySQL]
+> > * [이름이 없는 동물의 아이디][이름이 없는 동물의 아이디-MySQL]
+> > * [이름이 있는 동물의 아이디][이름이 있는 동물의 아이디-MySQL]
+> > * [최댓값 구하기][최댓값 구하기-MySQL]
