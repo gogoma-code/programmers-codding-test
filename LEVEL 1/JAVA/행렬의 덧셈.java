@@ -2,7 +2,7 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=java
 import java.util.stream.IntStream;
 
-public class Solution {
+class Solution {
 	// 풀이-1
 	public int[][] solution(int[][] arr1, int[][] arr2) {
 		int[][] arr = new int[arr1.length][arr1[0].length];

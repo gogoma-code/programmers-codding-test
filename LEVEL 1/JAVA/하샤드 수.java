@@ -1,6 +1,6 @@
 // 하샤드 수 :: https://gogoma.tistory.com/45
 // https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java
-public class Solution {
+class Solution {
 	// 풀이-1
 	public boolean solution(int x) {
 		int sum = 0;

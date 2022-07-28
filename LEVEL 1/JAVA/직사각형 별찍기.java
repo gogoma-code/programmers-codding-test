@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.stream.IntStream;
 
 // 풀이-1
-public class Solution {
+class Solution {
 	public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
@@ -18,7 +18,7 @@ public class Solution {
 }
 
 // 풀이-2
-public class Solution {
+class Solution2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

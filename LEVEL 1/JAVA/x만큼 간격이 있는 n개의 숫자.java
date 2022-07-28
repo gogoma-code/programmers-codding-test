@@ -2,7 +2,7 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=java
 import java.util.stream.LongStream;
 
-public class Solution {
+class Solution {
 	// 풀이-1
 	public long[] solution(int x, int n) {
 		long[] arr = new long[n];
