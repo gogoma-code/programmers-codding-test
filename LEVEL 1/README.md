@@ -58,6 +58,8 @@
 [체육복]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/체육복.java
 [실패율]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/실패율.java
 [약수의 개수와 덧셈]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/약수의%20개수와%20덧셈.java
+[과일 장수]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.java
+[햄버거 만들기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java
 
 <!-- level-1-MySQL -->
 [동물의 아이디와 이름-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/동물의%20아이디와%20이름.sql
@@ -127,6 +129,8 @@
 > > * [체육복][체육복]
 > > * [실패율][실패율]
 > > * [약수의 개수와 덧셈][약수의 개수와 덧셈]
+> > * [과일 장수][과일 장수]
+> > * [햄버거 만들기][햄버거 만들기]
 
 > ## [MySQL][link-level-1-MySQL]
 > > * [동물의 아이디와 이름][동물의 아이디와 이름-MySQL]
