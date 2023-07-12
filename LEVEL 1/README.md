@@ -64,6 +64,9 @@
 [추억 점수]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/추억%20점수.java
 [문자열 나누기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/문자열%20나누기.java
 [명예의 전당1]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/명예의%20전당1.java
+[기사단원의 무기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/기사단원의%20무기.java
+[카드 뭉치]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/카드%20뭉치.java
+[덧칠하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/덧칠하기.java
 
 <!-- level-1-MySQL -->
 [동물의 아이디와 이름-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/동물의%20아이디와%20이름.sql
@@ -139,6 +142,9 @@
 > > * [추억 점수][추억 점수]
 > > * [문자열 나누기][문자열 나누기]
 > > * [명예의 전당1][명예의 전당1]
+> > * [기사단원의 무기][기사단원의 무기]
+> > * [카드 뭉치][카드 뭉치]
+> > * [덧칠하기][덧칠하기]
 
 > ## [MySQL][link-level-1-MySQL]
 > > * [동물의 아이디와 이름][동물의 아이디와 이름-MySQL]
