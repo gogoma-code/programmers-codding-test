@@ -60,6 +60,10 @@
 [약수의 개수와 덧셈]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/약수의%20개수와%20덧셈.java
 [과일 장수]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.java
 [햄버거 만들기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java
+[가장 가까운 같은 글자]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/가장%20가까운%20같은%20글자.java
+[추억 점수]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/추억%20점수.java
+[문자열 나누기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/문자열%20나누기.java
+[명예의 전당1]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/명예의%20전당1.java
 
 <!-- level-1-MySQL -->
 [동물의 아이디와 이름-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/동물의%20아이디와%20이름.sql
@@ -131,6 +135,10 @@
 > > * [약수의 개수와 덧셈][약수의 개수와 덧셈]
 > > * [과일 장수][과일 장수]
 > > * [햄버거 만들기][햄버거 만들기]
+> > * [가장 가까운 같은 글자][가장 가까운 같은 글자]
+> > * [추억 점수][추억 점수]
+> > * [문자열 나누기][문자열 나누기]
+> > * [명예의 전당1][명예의 전당1]
 
 > ## [MySQL][link-level-1-MySQL]
 > > * [동물의 아이디와 이름][동물의 아이디와 이름-MySQL]
