@@ -67,6 +67,11 @@
 [기사단원의 무기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/기사단원의%20무기.java
 [카드 뭉치]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/카드%20뭉치.java
 [덧칠하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/덧칠하기.java
+[둘만의 암호]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/둘만의%20암호.java
+[달리기 경주]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/달리기%20경주.java
+[바탕화면 정리]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/바탕화면%20정리.java
+[대충 만든 자판]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/대충%20만든%20자판.java
+[공원 산책]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/JAVA/공원%20산책.java
 
 <!-- level-1-MySQL -->
 [동물의 아이디와 이름-MySQL]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%201/MySQL/동물의%20아이디와%20이름.sql
@@ -145,6 +150,11 @@
 > > * [기사단원의 무기][기사단원의 무기]
 > > * [카드 뭉치][카드 뭉치]
 > > * [덧칠하기][덧칠하기]
+> > * [둘만의 암호][둘만의 암호]
+> > * [달리기 경주][달리기 경주]
+> > * [바탕화면 정리][바탕화면 정리]
+> > * [대충 만든 자판][대충 만든 자판]
+> > * [공원 산책][공원 산책]
 
 > ## [MySQL][link-level-1-MySQL]
 > > * [동물의 아이디와 이름][동물의 아이디와 이름-MySQL]
