@@ -20,10 +20,13 @@
 [N-Queen]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/N-Queen.java
 [N개의 최소공배수]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/N개의%20최소공배수.java
 [짝지어 제거하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/짝지어%20제거하기.java
-[점프와 순간 이동]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/점프와%20순간이동.java
+[점프와 순간 이동]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/점프와%20순간%20이동.java
 [영어 끝말잇기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/영어%20끝말잇기.java
 [예상 대진표]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/예상%20대진표.java
 [\[1차\] 뉴스 클러스터링]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/1차_뉴스%20클러스터링.java
+[\[1차\] 프렌즈4블록]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/1차_프렌즈4블록.java
+[\[1차\] 캐시]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/1차_캐시.java
+[\[3차\] 파일명 정렬]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/3차_파일명 정렬.java
 
 
 > ## [JAVA][link-level-2-JAVA]
@@ -49,3 +52,6 @@
 > > * [영어 끝말잇기][영어 끝말잇기]
 > > * [예상 대진표][예상 대진표]
 > > * [\[1차\] 뉴스 클러스터링][\[1차\] 뉴스 클러스터링]
+> > * [\[1차\] 프렌즈4블록][\[1차\] 프렌즈4블록]
+> > * [\[1차\] 캐시][\[1차\] 캐시]
+> > * [\[3차\] 파일명 정렬][\[3차\] 파일명 정렬]
