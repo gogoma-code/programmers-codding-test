@@ -23,7 +23,7 @@
 [점프와 순간 이동]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/점프와%20순간이동.java
 [영어 끝말잇기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/영어%20끝말잇기.java
 [예상 대진표]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/예상%20대진표.java
-[\[1차\]뉴스 클러스터링]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/1차_뉴스%20클러스터링.java
+[\[1차\] 뉴스 클러스터링]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/1차_뉴스%20클러스터링.java
 
 
 > ## [JAVA][link-level-2-JAVA]
@@ -48,4 +48,4 @@
 > > * [점프와 순간 이동][점프와 순간 이동]
 > > * [영어 끝말잇기][영어 끝말잇기]
 > > * [예상 대진표][예상 대진표]
-> > * [\[1차\]뉴스 클러스터링][\[1차\]뉴스 클러스터링]
+> > * [\[1차\] 뉴스 클러스터링][\[1차\] 뉴스 클러스터링]
