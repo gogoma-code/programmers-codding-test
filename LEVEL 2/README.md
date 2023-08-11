@@ -1,7 +1,7 @@
-<!-- level-1 -->
+<!-- level-2 -->
 [link-level-2-JAVA]: https://github.com/gogoma-code/programmers-codding-test/tree/main/LEVEL%202/JAVA
 
-<!-- level-1-JAVA -->
+<!-- level-2-JAVA -->
 [124 나라의 숫자]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/124%20나라의%20숫자.java
 [가장 큰 정사각형 찾기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/가장%20큰%20정사각형%20찾기.java
 [올바른 괄호]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/올바른%20괄호.java
@@ -56,6 +56,10 @@
 [k진수에서 소수 개수 구하기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/k진수에서%20소수%20개수%20구하기.java
 [주차 요금 계산]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/주차%20요금%20계산.java
 [양궁대회]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/양궁대회.java
+[연속 부분 수열 합의 개수]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/연속%20부분%20수열%20합의%20개수.java
+[귤 고르기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/귤%20고르기.java
+[뒤에 있는 큰 수 찾기]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/뒤에%20있는%20큰%20수%20찾기.java
+[할인 행사]: https://github.com/gogoma-code/programmers-codding-test/blob/main/LEVEL%202/JAVA/할인%20행사.java
 
 > ## [JAVA][link-level-2-JAVA]
 > > * [124 나라의 숫자][124 나라의 숫자]
@@ -112,3 +116,7 @@
 > > * [k진수에서 소수 개수 구하기][k진수에서 소수 개수 구하기]
 > > * [주차 요금 계산][주차 요금 계산]
 > > * [양궁대회][양궁대회]
+> > * [연속 부분 수열 합의 개수][연속 부분 수열 합의 개수]
+> > * [귤 고르기][귤 고르기]
+> > * [뒤에 있는 큰 수 찾기][뒤에 있는 큰 수 찾기]
+> > * [할인 행사][할인 행사]
